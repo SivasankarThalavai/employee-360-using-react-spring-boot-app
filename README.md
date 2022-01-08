@@ -1,21 +1,26 @@
 # employee-360-using-react-spring-boot
 
-
-
+-------------------------------------------------
 Back End:
+-------------------------------------------------
 
-Tools :
+Technologies used :
+
 	1.) Spring Webflux
 	2.) Spring Reactive MongoDB
 
 Commands:
 
 
+
+
+-------------------------------------------------
 Front End:
+-------------------------------------------------
 
-Tools :
+Technologies used :
+
 	1.) React 17
-
 
 Commands:
 
