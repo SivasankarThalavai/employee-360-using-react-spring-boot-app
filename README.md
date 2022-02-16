@@ -6,8 +6,8 @@ Back End:
 
 Technologies used :
 
-	1.) Spring Webflux
-	2.) Spring Reactive MongoDB
+	1.) Spring Boot
+	2.) Spring Data MongoDB
 
 Commands:
 
